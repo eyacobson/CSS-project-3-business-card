@@ -1,2 +1,2 @@
-# CSS-project-3-business-card
-Pure CSS business card
+# Pure CSS Business Card
+"Jesus. That is <em>really</em> super. How'd a nitwit like you get so tasteful?"
